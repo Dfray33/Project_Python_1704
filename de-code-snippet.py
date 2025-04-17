@@ -201,19 +201,42 @@ def transform_data(df_deliveries, weather_data):
     logger.info("Transforming data...")
 
     # 1. Enrich with weather data
-    print("cc")
-    print(weather_data)
-    #var=df_deliveries["pickup_datetime"].strftime("%Y-%m-%d")
-    #print(var)
-    #if pickup_datetime
+    """  Création colonne de travail Date à partir de pickup_datetime """
+    df_deliveries["pickup_datetime"] = pd.to_datetime(df_deliveries["pickup_datetime"])
+    df_deliveries["Date"] = df_deliveries["pickup_datetime"].dt.date
+
+    """ Pour chaque date de la colonne Date du df, on recherche la clé associée dans le fichier
+     JSON weather_data"""
+    weather_conditions=[]
+    for date in df_deliveries["Date"]:
+        """Si la date du df = date du JSON (clé 1)
+        alors
+            si la jour de la date = jour du JSON (clé 2)
+            alors
+            alimentation de la nouvelle liste weather_conditions avec la valeur correspondante 
+            à la date et au  jour (clé 1/clé 2) du JSON
+            Sinon mettre à None la valeur 
+        Sinon mettre à None la valeur 
+        """
+        if str(date) in weather_data.keys():
+            if str(date.day) in weather_data[str(date)].keys():
+                weather_conditions.append(weather_data[str(date)][str(date.day)])
+            else :
+                weather_conditions.append(None)
+        else:
+            weather_conditions.append(None)
+    ''' Alimentation de la nouvelle colonne Weather à partir liste weather_conditions précédemment alimentée'''
+    df_deliveries["Weather"] = weather_conditions
+
+    '''Supression de la colonne de travail Date '''
+    df_deliveries=df_deliveries.drop(columns=['Date','recipient_id'])
+
 
     # 3. Determine status (on time/delayed)
-
-    #TAG
     df_deliveries["Distance"] = "3"
+
+    print(df_deliveries)
     # 2. Calculate delivery times
-    print("totto")
-    print(df_deliveries[(df_deliveries["delivery_id"] == 10) | (df_deliveries["recipient_id"]== 10)])
 
     # 4. Handle missing values
     
