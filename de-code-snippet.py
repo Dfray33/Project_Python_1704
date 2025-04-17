@@ -42,6 +42,8 @@ def create_sqlite_database():
     CREATE TABLE deliveries (
         delivery_id INTEGER PRIMARY KEY,
         pickup_datetime TEXT,
+        Weekday TEXT,
+        Hour INTEGER,
         package_type TEXT,
         delivery_zone TEXT,
         recipient_id INTEGER
@@ -76,6 +78,8 @@ def create_sqlite_database():
         deliveries.append((
             i,  # delivery_id
             timestamp.strftime('%Y-%m-%d %H:%M:%S'),  # pickup_datetime
+            timestamp.hour,
+            timestamp.strftime("%A"),
             package_type,
             delivery_zone,
             random.randint(1, 100)  # fictional recipient_id
@@ -83,7 +87,7 @@ def create_sqlite_database():
     
     # Insert data
     cursor.executemany(
-        'INSERT INTO deliveries VALUES (?, ?, ?, ?, ?)',
+        'INSERT INTO deliveries VALUES (?, ?, ?, ?, ?, ?, ?)',
         deliveries
     )
     
@@ -145,6 +149,7 @@ def extract_sqlite_data():
     conn = sqlite3.connect(DB_PATH)
     query = "SELECT * FROM deliveries"
     df = pd.read_sql(query, conn)
+    print(df.head())
     conn.close()
     
     logger.info(f"Extraction complete: {len(df)} records")
@@ -194,11 +199,22 @@ def transform_data(df_deliveries, weather_data):
     To be completed by participants
     """
     logger.info("Transforming data...")
-    
-    # TODO: Add your transformation code here
+
     # 1. Enrich with weather data
-    # 2. Calculate delivery times
+    print("cc")
+    print(weather_data)
+    #var=df_deliveries["pickup_datetime"].strftime("%Y-%m-%d")
+    #print(var)
+    #if pickup_datetime
+
     # 3. Determine status (on time/delayed)
+
+    #TAG
+    df_deliveries["Distance"] = "3"
+    # 2. Calculate delivery times
+    print("totto")
+    print(df_deliveries[(df_deliveries["delivery_id"] == 10) | (df_deliveries["recipient_id"]== 10)])
+
     # 4. Handle missing values
     
     return df_deliveries  # Return transformed DataFrame

@@ -1,0 +1,1001 @@
+delivery_id,pickup_datetime,Weekday,Hour,package_type,delivery_zone,recipient_id,Distance
+1,2025-01-21 16:12:19,16,Tuesday,Medium,Rural,68,3
+2,2025-03-28 07:35:55,7,Friday,Large,Industrial,41,3
+3,2025-02-20 19:37:44,19,Thursday,Small,Shopping Center,80,3
+4,2025-04-09 12:00:43,12,Wednesday,Small,Rural,71,3
+5,2025-01-31 02:52:29,2,Friday,X-Large,Suburban,74,3
+6,2025-03-02 18:58:44,18,Sunday,X-Large,Suburban,16,3
+7,2025-03-10 04:50:22,4,Monday,Special,Rural,85,3
+8,2025-03-18 23:00:55,23,Tuesday,Large,Shopping Center,10,3
+9,2025-02-25 08:02:40,8,Tuesday,X-Large,Industrial,31,3
+10,2025-04-06 14:13:46,14,Sunday,Medium,Urban,63,3
+11,2025-04-11 17:35:53,17,Friday,Medium,Rural,19,3
+12,2025-02-10 09:01:19,9,Monday,Large,Urban,11,3
+13,2025-03-19 15:57:35,15,Wednesday,Medium,Urban,24,3
+14,2025-03-15 16:34:47,16,Saturday,Large,Industrial,83,3
+15,2025-02-17 20:30:52,20,Monday,Large,Rural,20,3
+16,2025-03-17 04:07:15,4,Monday,Medium,Urban,6,3
+17,2025-03-26 06:16:00,6,Wednesday,X-Large,Rural,77,3
+18,2025-03-22 12:58:19,12,Saturday,Medium,Shopping Center,52,3
+19,2025-04-08 18:34:38,18,Tuesday,Small,Industrial,62,3
+20,2025-03-28 14:43:08,14,Friday,Medium,Shopping Center,25,3
+21,2025-04-05 22:08:20,22,Saturday,Large,Shopping Center,95,3
+22,2025-03-02 20:03:24,20,Sunday,Medium,Industrial,3,3
+23,2025-03-26 15:55:58,15,Wednesday,Small,Shopping Center,37,3
+24,2025-02-02 00:19:46,0,Sunday,Special,Rural,93,3
+25,2025-03-18 18:27:05,18,Tuesday,Medium,Suburban,68,3
+26,2025-04-17 08:28:37,8,Thursday,Medium,Urban,100,3
+27,2025-03-20 13:47:11,13,Thursday,Special,Urban,65,3
+28,2025-04-12 21:35:47,21,Saturday,X-Large,Industrial,88,3
+29,2025-04-03 12:51:38,12,Thursday,Small,Urban,24,3
+30,2025-04-12 12:21:13,12,Saturday,Medium,Industrial,75,3
+31,2025-02-15 18:43:06,18,Saturday,X-Large,Shopping Center,59,3
+32,2025-03-30 03:38:40,3,Sunday,Large,Suburban,100,3
+33,2025-04-05 12:35:17,12,Saturday,Large,Rural,61,3
+34,2025-02-11 22:59:20,22,Tuesday,Large,Suburban,79,3
+35,2025-01-18 21:08:34,21,Saturday,Small,Shopping Center,69,3
+36,2025-03-27 18:36:56,18,Thursday,Small,Industrial,50,3
+37,2025-02-22 19:06:56,19,Saturday,Large,Shopping Center,76,3
+38,2025-03-09 20:26:41,20,Sunday,X-Large,Industrial,38,3
+39,2025-03-10 11:39:54,11,Monday,Medium,Shopping Center,94,3
+40,2025-02-15 16:47:50,16,Saturday,Large,Rural,14,3
+41,2025-01-20 10:20:02,10,Monday,Small,Shopping Center,51,3
+42,2025-04-10 03:14:06,3,Thursday,X-Large,Rural,63,3
+43,2025-03-12 15:45:08,15,Wednesday,Medium,Urban,19,3
+44,2025-01-25 16:41:24,16,Saturday,Medium,Rural,1,3
+45,2025-04-01 01:31:13,1,Tuesday,X-Large,Rural,76,3
+46,2025-04-01 04:29:15,4,Tuesday,Medium,Suburban,79,3
+47,2025-04-10 03:14:56,3,Thursday,Large,Suburban,83,3
+48,2025-01-21 09:20:28,9,Tuesday,Special,Rural,41,3
+49,2025-02-05 19:37:48,19,Wednesday,X-Large,Shopping Center,75,3
+50,2025-03-30 05:40:24,5,Sunday,Medium,Industrial,79,3
+51,2025-03-30 18:09:22,18,Sunday,Medium,Suburban,72,3
+52,2025-03-19 16:32:45,16,Wednesday,Special,Industrial,90,3
+53,2025-01-21 17:02:35,17,Tuesday,Medium,Shopping Center,34,3
+54,2025-04-05 07:42:30,7,Saturday,Large,Rural,43,3
+55,2025-03-31 01:58:55,1,Monday,Large,Urban,30,3
+56,2025-02-20 01:21:22,1,Thursday,Large,Urban,57,3
+57,2025-04-05 03:29:30,3,Saturday,Large,Shopping Center,14,3
+58,2025-04-08 09:45:35,9,Tuesday,Medium,Shopping Center,64,3
+59,2025-01-25 08:24:25,8,Saturday,Small,Urban,19,3
+60,2025-03-07 02:32:40,2,Friday,Medium,Urban,53,3
+61,2025-04-09 03:58:40,3,Wednesday,Special,Suburban,20,3
+62,2025-02-12 22:40:21,22,Wednesday,X-Large,Urban,6,3
+63,2025-03-03 03:47:01,3,Monday,Special,Industrial,100,3
+64,2025-03-31 00:00:35,0,Monday,X-Large,Rural,17,3
+65,2025-01-17 23:51:15,23,Friday,Large,Industrial,76,3
+66,2025-03-21 04:48:17,4,Friday,Medium,Shopping Center,88,3
+67,2025-02-28 20:00:07,20,Friday,Small,Urban,29,3
+68,2025-04-05 22:11:58,22,Saturday,Large,Industrial,64,3
+69,2025-03-29 05:57:22,5,Saturday,X-Large,Urban,61,3
+70,2025-03-07 18:53:20,18,Friday,Special,Rural,3,3
+71,2025-03-18 17:57:57,17,Tuesday,Small,Industrial,31,3
+72,2025-04-13 14:45:36,14,Sunday,Small,Shopping Center,26,3
+73,2025-03-07 13:09:38,13,Friday,Large,Suburban,50,3
+74,2025-03-08 10:57:36,10,Saturday,Medium,Urban,77,3
+75,2025-02-12 18:48:09,18,Wednesday,Large,Industrial,3,3
+76,2025-04-01 07:40:04,7,Tuesday,Medium,Industrial,50,3
+77,2025-03-23 09:19:21,9,Sunday,Small,Industrial,62,3
+78,2025-03-06 07:03:44,7,Thursday,Medium,Suburban,58,3
+79,2025-03-18 04:52:49,4,Tuesday,Special,Rural,84,3
+80,2025-02-11 23:52:36,23,Tuesday,X-Large,Rural,61,3
+81,2025-01-20 13:05:33,13,Monday,Small,Rural,21,3
+82,2025-03-17 12:20:56,12,Monday,Large,Shopping Center,81,3
+83,2025-03-15 11:35:22,11,Saturday,Small,Rural,59,3
+84,2025-03-21 02:18:51,2,Friday,Small,Urban,73,3
+85,2025-03-30 23:25:57,23,Sunday,Small,Suburban,42,3
+86,2025-02-02 21:49:58,21,Sunday,Small,Urban,25,3
+87,2025-03-21 01:44:05,1,Friday,Small,Urban,70,3
+88,2025-04-04 00:00:05,0,Friday,X-Large,Industrial,30,3
+89,2025-02-26 07:25:28,7,Wednesday,Medium,Shopping Center,46,3
+90,2025-03-30 07:17:53,7,Sunday,X-Large,Rural,52,3
+91,2025-03-14 21:38:12,21,Friday,Small,Industrial,99,3
+92,2025-02-27 17:27:30,17,Thursday,Large,Rural,37,3
+93,2025-02-23 01:18:12,1,Sunday,Special,Industrial,9,3
+94,2025-04-16 14:39:45,14,Wednesday,Medium,Industrial,67,3
+95,2025-01-25 19:06:20,19,Saturday,Large,Shopping Center,74,3
+96,2025-02-17 13:20:39,13,Monday,Special,Suburban,81,3
+97,2025-02-08 07:27:41,7,Saturday,Medium,Rural,47,3
+98,2025-01-27 15:22:21,15,Monday,Special,Rural,87,3
+99,2025-02-17 00:47:56,0,Monday,Medium,Rural,9,3
+100,2025-01-19 13:55:32,13,Sunday,Small,Shopping Center,1,3
+101,2025-03-18 18:53:45,18,Tuesday,Large,Suburban,12,3
+102,2025-02-14 14:00:22,14,Friday,Medium,Rural,82,3
+103,2025-01-21 04:29:08,4,Tuesday,Medium,Suburban,68,3
+104,2025-03-30 17:46:49,17,Sunday,X-Large,Industrial,20,3
+105,2025-01-30 09:43:09,9,Thursday,Medium,Industrial,50,3
+106,2025-01-27 03:26:54,3,Monday,Small,Shopping Center,73,3
+107,2025-02-25 05:10:43,5,Tuesday,Medium,Suburban,61,3
+108,2025-02-22 12:53:54,12,Saturday,Small,Industrial,54,3
+109,2025-03-24 11:20:49,11,Monday,Small,Rural,55,3
+110,2025-01-18 13:38:45,13,Saturday,Special,Rural,60,3
+111,2025-04-05 04:58:32,4,Saturday,X-Large,Suburban,40,3
+112,2025-02-02 02:10:39,2,Sunday,Small,Suburban,56,3
+113,2025-03-22 03:23:37,3,Saturday,Medium,Rural,14,3
+114,2025-02-01 20:04:04,20,Saturday,Large,Suburban,41,3
+115,2025-04-04 12:43:45,12,Friday,Special,Industrial,14,3
+116,2025-03-21 09:49:26,9,Friday,Large,Urban,2,3
+117,2025-03-06 01:18:55,1,Thursday,Small,Shopping Center,11,3
+118,2025-03-31 04:06:33,4,Monday,Large,Shopping Center,26,3
+119,2025-02-04 14:08:20,14,Tuesday,Special,Shopping Center,63,3
+120,2025-03-21 18:25:20,18,Friday,Large,Shopping Center,37,3
+121,2025-04-03 08:57:45,8,Thursday,Large,Industrial,27,3
+122,2025-03-02 11:40:17,11,Sunday,Special,Suburban,96,3
+123,2025-03-30 07:34:01,7,Sunday,Special,Shopping Center,4,3
+124,2025-02-06 00:32:55,0,Thursday,Medium,Industrial,48,3
+125,2025-02-18 19:43:01,19,Tuesday,Large,Industrial,24,3
+126,2025-01-21 23:11:55,23,Tuesday,Small,Urban,38,3
+127,2025-02-26 17:09:14,17,Wednesday,X-Large,Suburban,73,3
+128,2025-01-26 19:20:11,19,Sunday,X-Large,Suburban,40,3
+129,2025-02-09 14:53:27,14,Sunday,Small,Industrial,46,3
+130,2025-03-06 02:58:54,2,Thursday,Special,Industrial,84,3
+131,2025-02-24 13:04:06,13,Monday,Small,Suburban,72,3
+132,2025-04-09 06:09:19,6,Wednesday,Large,Rural,99,3
+133,2025-04-16 17:19:23,17,Wednesday,Large,Suburban,2,3
+134,2025-01-17 17:54:52,17,Friday,Medium,Rural,63,3
+135,2025-04-13 01:30:43,1,Sunday,Medium,Rural,18,3
+136,2025-03-02 10:01:48,10,Sunday,Medium,Rural,56,3
+137,2025-04-04 10:23:40,10,Friday,X-Large,Urban,91,3
+138,2025-02-06 05:36:02,5,Thursday,Medium,Urban,14,3
+139,2025-04-15 02:32:31,2,Tuesday,Large,Industrial,31,3
+140,2025-04-14 06:28:44,6,Monday,Special,Urban,73,3
+141,2025-01-19 08:32:42,8,Sunday,Special,Suburban,82,3
+142,2025-03-02 04:53:29,4,Sunday,Small,Suburban,64,3
+143,2025-01-28 20:42:44,20,Tuesday,Small,Suburban,47,3
+144,2025-02-05 08:03:18,8,Wednesday,Large,Rural,1,3
+145,2025-03-25 12:43:42,12,Tuesday,Medium,Suburban,93,3
+146,2025-03-27 16:39:29,16,Thursday,Small,Rural,53,3
+147,2025-02-20 17:49:18,17,Thursday,Small,Industrial,36,3
+148,2025-01-20 15:18:58,15,Monday,Large,Industrial,29,3
+149,2025-04-09 22:27:04,22,Wednesday,Small,Industrial,4,3
+150,2025-02-23 01:36:39,1,Sunday,Medium,Rural,22,3
+151,2025-03-10 06:47:19,6,Monday,X-Large,Shopping Center,58,3
+152,2025-02-24 18:30:02,18,Monday,Medium,Shopping Center,74,3
+153,2025-02-14 09:58:30,9,Friday,Small,Industrial,21,3
+154,2025-02-18 16:41:28,16,Tuesday,Medium,Shopping Center,26,3
+155,2025-02-19 04:41:28,4,Wednesday,Medium,Suburban,27,3
+156,2025-02-10 12:09:28,12,Monday,X-Large,Shopping Center,29,3
+157,2025-04-06 17:20:21,17,Sunday,X-Large,Suburban,43,3
+158,2025-04-14 12:43:30,12,Monday,Large,Industrial,68,3
+159,2025-02-09 17:32:03,17,Sunday,Small,Industrial,22,3
+160,2025-04-08 12:48:29,12,Tuesday,Medium,Rural,48,3
+161,2025-02-04 16:55:44,16,Tuesday,Medium,Rural,68,3
+162,2025-03-14 03:55:10,3,Friday,Medium,Industrial,70,3
+163,2025-01-30 11:47:46,11,Thursday,Large,Urban,3,3
+164,2025-04-09 07:52:24,7,Wednesday,Small,Suburban,98,3
+165,2025-03-09 13:26:06,13,Sunday,Medium,Shopping Center,42,3
+166,2025-04-14 19:46:57,19,Monday,Large,Industrial,53,3
+167,2025-02-14 16:49:48,16,Friday,Medium,Shopping Center,29,3
+168,2025-04-10 20:57:30,20,Thursday,Special,Suburban,25,3
+169,2025-03-22 21:22:04,21,Saturday,Small,Rural,66,3
+170,2025-02-09 06:17:54,6,Sunday,Medium,Suburban,28,3
+171,2025-03-19 20:04:26,20,Wednesday,Large,Shopping Center,29,3
+172,2025-03-24 14:36:34,14,Monday,Small,Urban,55,3
+173,2025-03-10 14:51:16,14,Monday,X-Large,Rural,3,3
+174,2025-02-18 14:04:24,14,Tuesday,Special,Suburban,22,3
+175,2025-04-07 07:46:20,7,Monday,Small,Rural,94,3
+176,2025-02-11 18:12:37,18,Tuesday,Medium,Industrial,46,3
+177,2025-04-10 03:47:14,3,Thursday,Special,Rural,96,3
+178,2025-04-16 08:06:03,8,Wednesday,Small,Suburban,30,3
+179,2025-04-07 22:53:44,22,Monday,Medium,Rural,15,3
+180,2025-03-08 23:33:37,23,Saturday,Large,Suburban,57,3
+181,2025-02-27 18:31:38,18,Thursday,Medium,Rural,58,3
+182,2025-04-10 05:14:23,5,Thursday,Medium,Suburban,26,3
+183,2025-03-10 05:12:10,5,Monday,Large,Industrial,76,3
+184,2025-01-18 21:52:24,21,Saturday,X-Large,Rural,66,3
+185,2025-04-11 19:06:20,19,Friday,Special,Rural,96,3
+186,2025-01-20 18:40:21,18,Monday,Medium,Shopping Center,57,3
+187,2025-04-16 22:24:20,22,Wednesday,X-Large,Industrial,25,3
+188,2025-03-29 00:41:45,0,Saturday,Small,Suburban,10,3
+189,2025-02-16 21:26:03,21,Sunday,Medium,Rural,11,3
+190,2025-02-22 05:51:50,5,Saturday,Large,Suburban,22,3
+191,2025-02-27 21:54:09,21,Thursday,Small,Industrial,3,3
+192,2025-04-11 05:31:26,5,Friday,Large,Urban,12,3
+193,2025-02-04 14:22:31,14,Tuesday,Small,Industrial,14,3
+194,2025-02-11 00:23:33,0,Tuesday,X-Large,Rural,94,3
+195,2025-03-01 23:00:30,23,Saturday,Large,Industrial,88,3
+196,2025-02-28 13:07:18,13,Friday,Medium,Urban,38,3
+197,2025-02-27 19:35:48,19,Thursday,Small,Shopping Center,24,3
+198,2025-03-31 07:13:57,7,Monday,Small,Urban,94,3
+199,2025-04-04 23:27:36,23,Friday,Large,Shopping Center,67,3
+200,2025-03-04 06:22:17,6,Tuesday,Medium,Shopping Center,79,3
+201,2025-02-01 10:20:58,10,Saturday,X-Large,Urban,33,3
+202,2025-02-20 16:53:09,16,Thursday,Small,Suburban,2,3
+203,2025-02-16 03:50:51,3,Sunday,Medium,Suburban,38,3
+204,2025-04-13 18:56:20,18,Sunday,Medium,Suburban,81,3
+205,2025-03-18 07:56:20,7,Tuesday,Large,Urban,43,3
+206,2025-02-03 18:26:05,18,Monday,Small,Shopping Center,26,3
+207,2025-03-02 17:38:36,17,Sunday,Large,Shopping Center,25,3
+208,2025-02-20 16:25:44,16,Thursday,Small,Urban,24,3
+209,2025-02-04 19:20:33,19,Tuesday,Large,Suburban,15,3
+210,2025-03-15 11:10:21,11,Saturday,X-Large,Suburban,73,3
+211,2025-02-23 09:20:14,9,Sunday,Special,Industrial,67,3
+212,2025-02-26 12:25:46,12,Wednesday,Medium,Industrial,45,3
+213,2025-01-20 00:52:36,0,Monday,Small,Industrial,72,3
+214,2025-02-21 12:25:27,12,Friday,Small,Suburban,68,3
+215,2025-01-22 01:40:35,1,Wednesday,Small,Rural,81,3
+216,2025-04-01 08:18:58,8,Tuesday,X-Large,Shopping Center,70,3
+217,2025-02-20 13:53:26,13,Thursday,Medium,Urban,56,3
+218,2025-04-06 17:32:06,17,Sunday,Small,Shopping Center,40,3
+219,2025-01-29 16:39:53,16,Wednesday,Medium,Shopping Center,40,3
+220,2025-03-11 00:04:00,0,Tuesday,Special,Industrial,19,3
+221,2025-02-11 22:05:08,22,Tuesday,Large,Industrial,8,3
+222,2025-02-16 03:37:06,3,Sunday,Special,Urban,12,3
+223,2025-02-27 15:37:19,15,Thursday,Large,Shopping Center,21,3
+224,2025-03-14 16:23:40,16,Friday,Small,Suburban,26,3
+225,2025-02-09 00:46:09,0,Sunday,Special,Rural,26,3
+226,2025-04-17 07:33:12,7,Thursday,Medium,Shopping Center,10,3
+227,2025-01-18 03:49:11,3,Saturday,Small,Urban,78,3
+228,2025-04-12 23:58:48,23,Saturday,Medium,Suburban,54,3
+229,2025-01-23 03:07:28,3,Thursday,Large,Suburban,81,3
+230,2025-02-24 20:17:38,20,Monday,Large,Shopping Center,34,3
+231,2025-04-09 13:42:27,13,Wednesday,Medium,Industrial,20,3
+232,2025-04-07 05:47:22,5,Monday,Medium,Shopping Center,94,3
+233,2025-03-26 21:51:32,21,Wednesday,X-Large,Rural,98,3
+234,2025-03-27 04:22:29,4,Thursday,Large,Urban,11,3
+235,2025-03-01 06:32:44,6,Saturday,Medium,Industrial,13,3
+236,2025-04-03 23:40:09,23,Thursday,Special,Shopping Center,71,3
+237,2025-03-16 04:13:54,4,Sunday,Medium,Industrial,33,3
+238,2025-02-08 07:55:19,7,Saturday,Large,Industrial,10,3
+239,2025-03-20 10:33:18,10,Thursday,X-Large,Shopping Center,50,3
+240,2025-04-08 02:48:27,2,Tuesday,Large,Shopping Center,31,3
+241,2025-02-05 23:27:12,23,Wednesday,Medium,Industrial,23,3
+242,2025-03-18 06:27:00,6,Tuesday,Small,Urban,76,3
+243,2025-02-10 16:19:02,16,Monday,Small,Rural,46,3
+244,2025-02-14 13:39:45,13,Friday,Large,Industrial,20,3
+245,2025-03-31 07:22:02,7,Monday,Medium,Urban,47,3
+246,2025-04-14 22:48:34,22,Monday,Large,Shopping Center,50,3
+247,2025-01-26 08:04:12,8,Sunday,X-Large,Rural,3,3
+248,2025-03-16 06:36:12,6,Sunday,Medium,Suburban,25,3
+249,2025-03-25 14:19:38,14,Tuesday,Large,Urban,96,3
+250,2025-04-15 09:45:33,9,Tuesday,Small,Rural,34,3
+251,2025-04-17 02:58:50,2,Thursday,Medium,Urban,90,3
+252,2025-02-18 08:56:44,8,Tuesday,Small,Urban,89,3
+253,2025-02-21 08:00:05,8,Friday,Small,Rural,15,3
+254,2025-02-22 22:22:22,22,Saturday,Large,Industrial,73,3
+255,2025-01-23 08:49:09,8,Thursday,Medium,Industrial,10,3
+256,2025-01-26 19:03:41,19,Sunday,Large,Urban,25,3
+257,2025-03-25 06:26:38,6,Tuesday,Small,Rural,32,3
+258,2025-01-25 11:00:01,11,Saturday,X-Large,Suburban,53,3
+259,2025-04-15 02:43:50,2,Tuesday,Medium,Suburban,63,3
+260,2025-04-07 07:48:03,7,Monday,Large,Rural,42,3
+261,2025-04-17 07:30:03,7,Thursday,Medium,Shopping Center,57,3
+262,2025-04-15 05:58:17,5,Tuesday,Small,Rural,5,3
+263,2025-02-21 21:18:40,21,Friday,X-Large,Industrial,64,3
+264,2025-01-19 02:26:28,2,Sunday,Small,Shopping Center,52,3
+265,2025-03-27 14:46:24,14,Thursday,Medium,Suburban,97,3
+266,2025-03-28 04:08:11,4,Friday,Medium,Industrial,92,3
+267,2025-03-25 14:32:51,14,Tuesday,Medium,Suburban,1,3
+268,2025-02-09 09:59:41,9,Sunday,Large,Shopping Center,13,3
+269,2025-04-09 04:12:05,4,Wednesday,Medium,Industrial,82,3
+270,2025-01-25 10:30:05,10,Saturday,Large,Suburban,84,3
+271,2025-02-14 11:58:35,11,Friday,X-Large,Suburban,97,3
+272,2025-02-25 21:36:29,21,Tuesday,Small,Urban,62,3
+273,2025-02-16 14:46:15,14,Sunday,X-Large,Rural,44,3
+274,2025-01-21 13:23:25,13,Tuesday,Medium,Suburban,30,3
+275,2025-02-11 08:25:55,8,Tuesday,Special,Suburban,63,3
+276,2025-03-28 22:51:30,22,Friday,Large,Urban,2,3
+277,2025-03-11 10:40:59,10,Tuesday,X-Large,Suburban,6,3
+278,2025-03-21 23:52:34,23,Friday,Large,Industrial,4,3
+279,2025-03-19 15:20:46,15,Wednesday,Medium,Industrial,35,3
+280,2025-02-12 14:09:52,14,Wednesday,Special,Industrial,34,3
+281,2025-02-13 11:21:51,11,Thursday,Small,Rural,7,3
+282,2025-01-29 03:48:35,3,Wednesday,X-Large,Shopping Center,1,3
+283,2025-03-02 01:51:34,1,Sunday,Medium,Suburban,24,3
+284,2025-02-05 21:54:19,21,Wednesday,Large,Industrial,79,3
+285,2025-02-14 09:07:20,9,Friday,X-Large,Suburban,24,3
+286,2025-04-09 17:31:57,17,Wednesday,Small,Shopping Center,45,3
+287,2025-01-24 11:30:11,11,Friday,Small,Suburban,78,3
+288,2025-03-23 16:14:47,16,Sunday,X-Large,Urban,15,3
+289,2025-01-29 05:23:40,5,Wednesday,Small,Urban,99,3
+290,2025-04-03 20:47:23,20,Thursday,Medium,Shopping Center,73,3
+291,2025-03-03 13:27:38,13,Monday,Medium,Shopping Center,36,3
+292,2025-02-07 03:08:49,3,Friday,Medium,Industrial,99,3
+293,2025-03-03 09:47:56,9,Monday,X-Large,Rural,26,3
+294,2025-04-04 16:29:39,16,Friday,Small,Shopping Center,44,3
+295,2025-01-25 01:53:55,1,Saturday,Medium,Industrial,17,3
+296,2025-04-05 15:04:48,15,Saturday,Small,Suburban,77,3
+297,2025-03-01 05:16:27,5,Saturday,Medium,Rural,58,3
+298,2025-03-13 16:02:41,16,Thursday,Large,Industrial,64,3
+299,2025-04-15 11:25:03,11,Tuesday,Medium,Suburban,85,3
+300,2025-01-17 19:36:54,19,Friday,Medium,Shopping Center,85,3
+301,2025-03-08 17:47:49,17,Saturday,Special,Urban,8,3
+302,2025-02-21 00:15:16,0,Friday,Special,Suburban,100,3
+303,2025-02-04 17:17:35,17,Tuesday,Medium,Industrial,10,3
+304,2025-03-30 07:08:11,7,Sunday,Small,Urban,4,3
+305,2025-03-21 07:24:17,7,Friday,X-Large,Shopping Center,19,3
+306,2025-01-19 05:51:38,5,Sunday,Small,Shopping Center,70,3
+307,2025-03-23 16:32:54,16,Sunday,Large,Suburban,47,3
+308,2025-02-21 02:56:34,2,Friday,Small,Suburban,26,3
+309,2025-04-16 13:09:12,13,Wednesday,Special,Rural,68,3
+310,2025-01-31 23:46:22,23,Friday,Medium,Rural,20,3
+311,2025-02-01 19:19:34,19,Saturday,Small,Suburban,89,3
+312,2025-03-24 14:40:54,14,Monday,Large,Urban,94,3
+313,2025-04-09 02:07:28,2,Wednesday,Small,Industrial,8,3
+314,2025-03-02 02:57:17,2,Sunday,Large,Rural,65,3
+315,2025-03-27 16:09:59,16,Thursday,Medium,Suburban,90,3
+316,2025-03-20 19:22:08,19,Thursday,Medium,Suburban,89,3
+317,2025-02-24 08:46:59,8,Monday,Medium,Industrial,61,3
+318,2025-03-25 00:55:25,0,Tuesday,Special,Suburban,13,3
+319,2025-01-27 22:21:29,22,Monday,Large,Suburban,35,3
+320,2025-03-09 08:33:13,8,Sunday,Small,Industrial,68,3
+321,2025-02-18 20:09:49,20,Tuesday,Small,Urban,53,3
+322,2025-03-05 07:27:30,7,Wednesday,Medium,Industrial,62,3
+323,2025-02-28 06:49:41,6,Friday,Special,Industrial,16,3
+324,2025-02-02 05:26:46,5,Sunday,Medium,Suburban,37,3
+325,2025-04-12 13:59:31,13,Saturday,Medium,Rural,67,3
+326,2025-04-13 02:39:57,2,Sunday,Small,Industrial,86,3
+327,2025-01-30 11:50:16,11,Thursday,X-Large,Industrial,83,3
+328,2025-02-22 19:14:30,19,Saturday,Small,Rural,4,3
+329,2025-02-02 15:16:45,15,Sunday,Small,Suburban,35,3
+330,2025-03-15 20:46:37,20,Saturday,Small,Industrial,42,3
+331,2025-04-10 21:40:40,21,Thursday,Large,Suburban,83,3
+332,2025-01-24 23:02:34,23,Friday,X-Large,Industrial,90,3
+333,2025-02-17 02:56:19,2,Monday,Small,Urban,83,3
+334,2025-03-07 09:12:10,9,Friday,Small,Shopping Center,86,3
+335,2025-03-18 13:47:34,13,Tuesday,Small,Rural,12,3
+336,2025-01-22 20:14:12,20,Wednesday,Medium,Rural,71,3
+337,2025-02-20 07:57:23,7,Thursday,X-Large,Shopping Center,98,3
+338,2025-04-03 07:34:29,7,Thursday,X-Large,Shopping Center,15,3
+339,2025-02-04 14:57:33,14,Tuesday,X-Large,Suburban,15,3
+340,2025-03-23 05:04:28,5,Sunday,X-Large,Industrial,64,3
+341,2025-01-31 19:43:21,19,Friday,Medium,Shopping Center,36,3
+342,2025-02-16 20:02:56,20,Sunday,X-Large,Suburban,81,3
+343,2025-03-24 19:11:10,19,Monday,Large,Suburban,78,3
+344,2025-02-24 00:54:02,0,Monday,Medium,Industrial,5,3
+345,2025-02-02 04:25:10,4,Sunday,Medium,Shopping Center,31,3
+346,2025-01-24 00:39:23,0,Friday,Large,Shopping Center,66,3
+347,2025-04-13 01:04:31,1,Sunday,Small,Suburban,13,3
+348,2025-04-11 23:16:56,23,Friday,X-Large,Suburban,85,3
+349,2025-04-05 05:24:35,5,Saturday,Special,Rural,1,3
+350,2025-04-05 15:02:03,15,Saturday,Large,Suburban,55,3
+351,2025-03-12 23:34:54,23,Wednesday,Medium,Industrial,57,3
+352,2025-03-07 03:22:26,3,Friday,Large,Industrial,100,3
+353,2025-03-19 04:01:34,4,Wednesday,Special,Urban,24,3
+354,2025-04-15 10:05:31,10,Tuesday,Large,Urban,37,3
+355,2025-02-26 19:23:52,19,Wednesday,Medium,Suburban,14,3
+356,2025-02-09 17:23:21,17,Sunday,Small,Suburban,74,3
+357,2025-03-31 16:49:29,16,Monday,X-Large,Shopping Center,57,3
+358,2025-03-28 22:44:04,22,Friday,X-Large,Industrial,5,3
+359,2025-04-10 12:14:33,12,Thursday,Large,Suburban,92,3
+360,2025-03-05 13:52:11,13,Wednesday,Large,Rural,6,3
+361,2025-04-01 01:58:50,1,Tuesday,Large,Suburban,41,3
+362,2025-02-19 15:55:20,15,Wednesday,Small,Suburban,7,3
+363,2025-03-24 19:19:43,19,Monday,Small,Shopping Center,54,3
+364,2025-03-07 01:21:06,1,Friday,Special,Rural,81,3
+365,2025-01-20 13:58:56,13,Monday,Medium,Rural,63,3
+366,2025-03-04 18:04:46,18,Tuesday,Medium,Urban,16,3
+367,2025-03-22 01:03:14,1,Saturday,X-Large,Shopping Center,59,3
+368,2025-02-27 18:57:11,18,Thursday,Special,Suburban,24,3
+369,2025-04-01 09:11:34,9,Tuesday,Medium,Industrial,8,3
+370,2025-03-12 13:42:38,13,Wednesday,Special,Urban,37,3
+371,2025-04-09 01:19:11,1,Wednesday,X-Large,Urban,58,3
+372,2025-03-21 09:44:15,9,Friday,Medium,Industrial,64,3
+373,2025-04-13 00:42:55,0,Sunday,Small,Shopping Center,30,3
+374,2025-04-05 06:48:18,6,Saturday,Small,Industrial,60,3
+375,2025-02-28 23:53:47,23,Friday,X-Large,Rural,11,3
+376,2025-04-07 17:08:46,17,Monday,Small,Industrial,77,3
+377,2025-03-13 21:41:06,21,Thursday,Medium,Urban,80,3
+378,2025-01-27 12:25:33,12,Monday,Small,Urban,91,3
+379,2025-03-31 12:27:19,12,Monday,Medium,Urban,71,3
+380,2025-02-06 18:17:58,18,Thursday,X-Large,Urban,58,3
+381,2025-02-24 05:49:15,5,Monday,Special,Urban,29,3
+382,2025-03-18 03:45:33,3,Tuesday,Medium,Urban,47,3
+383,2025-02-12 03:37:52,3,Wednesday,Small,Suburban,99,3
+384,2025-01-28 11:40:53,11,Tuesday,X-Large,Rural,4,3
+385,2025-02-04 00:35:44,0,Tuesday,Small,Rural,56,3
+386,2025-02-16 15:40:18,15,Sunday,Medium,Rural,98,3
+387,2025-02-18 17:57:07,17,Tuesday,Large,Suburban,96,3
+388,2025-02-08 03:18:33,3,Saturday,X-Large,Urban,36,3
+389,2025-03-13 13:59:05,13,Thursday,Large,Urban,56,3
+390,2025-01-30 14:13:18,14,Thursday,X-Large,Industrial,31,3
+391,2025-04-13 04:06:34,4,Sunday,Medium,Suburban,14,3
+392,2025-04-01 13:40:18,13,Tuesday,Medium,Suburban,34,3
+393,2025-03-30 10:47:43,10,Sunday,Medium,Urban,61,3
+394,2025-02-27 08:18:14,8,Thursday,Large,Industrial,44,3
+395,2025-02-21 07:39:29,7,Friday,Medium,Shopping Center,98,3
+396,2025-02-14 05:38:09,5,Friday,Special,Suburban,82,3
+397,2025-03-29 07:05:57,7,Saturday,Small,Rural,6,3
+398,2025-02-22 08:08:03,8,Saturday,Large,Urban,26,3
+399,2025-02-02 05:49:44,5,Sunday,Medium,Suburban,66,3
+400,2025-03-03 10:23:50,10,Monday,Large,Suburban,86,3
+401,2025-01-21 12:57:19,12,Tuesday,Small,Shopping Center,28,3
+402,2025-03-18 05:34:09,5,Tuesday,Small,Industrial,57,3
+403,2025-04-01 22:02:45,22,Tuesday,Small,Rural,28,3
+404,2025-03-17 00:20:49,0,Monday,X-Large,Rural,73,3
+405,2025-03-29 17:46:14,17,Saturday,Medium,Rural,38,3
+406,2025-03-03 03:55:30,3,Monday,Special,Shopping Center,94,3
+407,2025-03-01 01:08:22,1,Saturday,Medium,Rural,19,3
+408,2025-03-17 17:59:55,17,Monday,Medium,Rural,91,3
+409,2025-02-01 17:28:07,17,Saturday,Large,Urban,58,3
+410,2025-04-01 14:53:04,14,Tuesday,X-Large,Rural,57,3
+411,2025-02-26 16:49:54,16,Wednesday,Large,Industrial,96,3
+412,2025-04-16 00:46:14,0,Wednesday,X-Large,Suburban,82,3
+413,2025-01-21 19:19:28,19,Tuesday,Special,Urban,92,3
+414,2025-01-29 07:35:13,7,Wednesday,Special,Rural,77,3
+415,2025-02-21 00:48:10,0,Friday,Medium,Industrial,98,3
+416,2025-02-13 12:15:19,12,Thursday,Special,Industrial,27,3
+417,2025-01-24 05:53:50,5,Friday,Large,Rural,12,3
+418,2025-04-17 12:10:10,12,Thursday,X-Large,Urban,36,3
+419,2025-03-22 14:17:27,14,Saturday,Small,Rural,68,3
+420,2025-03-03 08:43:54,8,Monday,Large,Rural,81,3
+421,2025-02-03 15:27:55,15,Monday,Medium,Shopping Center,55,3
+422,2025-02-24 23:46:16,23,Monday,Special,Industrial,20,3
+423,2025-04-04 15:01:11,15,Friday,Large,Industrial,65,3
+424,2025-02-24 02:08:07,2,Monday,Medium,Shopping Center,49,3
+425,2025-02-06 20:35:56,20,Thursday,X-Large,Rural,61,3
+426,2025-03-02 18:01:19,18,Sunday,Special,Suburban,4,3
+427,2025-03-10 16:16:58,16,Monday,Medium,Suburban,93,3
+428,2025-02-05 19:11:32,19,Wednesday,Large,Rural,90,3
+429,2025-03-10 19:32:36,19,Monday,Large,Suburban,61,3
+430,2025-01-29 19:48:50,19,Wednesday,X-Large,Suburban,85,3
+431,2025-02-16 20:25:08,20,Sunday,X-Large,Shopping Center,62,3
+432,2025-04-02 22:09:16,22,Wednesday,Small,Rural,91,3
+433,2025-03-09 19:04:19,19,Sunday,Medium,Urban,58,3
+434,2025-02-12 23:04:48,23,Wednesday,Small,Industrial,15,3
+435,2025-03-15 17:01:22,17,Saturday,X-Large,Suburban,73,3
+436,2025-02-13 23:17:26,23,Thursday,Medium,Suburban,80,3
+437,2025-04-02 06:23:37,6,Wednesday,Medium,Shopping Center,70,3
+438,2025-02-04 02:43:04,2,Tuesday,X-Large,Industrial,17,3
+439,2025-03-06 12:43:53,12,Thursday,Medium,Rural,48,3
+440,2025-01-19 07:25:15,7,Sunday,X-Large,Rural,37,3
+441,2025-01-19 00:17:22,0,Sunday,Large,Rural,78,3
+442,2025-03-25 11:14:36,11,Tuesday,Medium,Industrial,46,3
+443,2025-02-18 14:53:58,14,Tuesday,X-Large,Urban,3,3
+444,2025-04-15 08:38:09,8,Tuesday,Small,Rural,2,3
+445,2025-02-05 22:26:12,22,Wednesday,X-Large,Rural,94,3
+446,2025-02-16 07:47:57,7,Sunday,X-Large,Shopping Center,97,3
+447,2025-03-12 23:30:18,23,Wednesday,Small,Shopping Center,33,3
+448,2025-03-14 14:41:45,14,Friday,Large,Suburban,8,3
+449,2025-02-10 08:43:26,8,Monday,Small,Shopping Center,51,3
+450,2025-03-14 14:58:06,14,Friday,Small,Rural,8,3
+451,2025-03-11 08:06:56,8,Tuesday,Medium,Urban,10,3
+452,2025-02-06 06:18:51,6,Thursday,Medium,Rural,10,3
+453,2025-02-10 08:53:20,8,Monday,X-Large,Shopping Center,55,3
+454,2025-02-07 19:00:45,19,Friday,X-Large,Urban,42,3
+455,2025-02-28 06:50:52,6,Friday,X-Large,Suburban,85,3
+456,2025-01-20 15:08:25,15,Monday,Medium,Rural,42,3
+457,2025-04-12 10:35:55,10,Saturday,X-Large,Suburban,28,3
+458,2025-04-10 23:38:43,23,Thursday,Medium,Suburban,54,3
+459,2025-01-31 08:21:36,8,Friday,Small,Industrial,85,3
+460,2025-02-17 06:52:10,6,Monday,Medium,Rural,33,3
+461,2025-03-13 06:03:28,6,Thursday,Medium,Industrial,52,3
+462,2025-03-15 22:58:06,22,Saturday,Medium,Suburban,24,3
+463,2025-04-16 11:13:55,11,Wednesday,Large,Shopping Center,45,3
+464,2025-04-11 00:50:56,0,Friday,X-Large,Urban,99,3
+465,2025-03-12 07:35:19,7,Wednesday,X-Large,Industrial,10,3
+466,2025-03-10 19:38:57,19,Monday,Small,Rural,66,3
+467,2025-03-16 07:52:59,7,Sunday,Special,Industrial,98,3
+468,2025-03-29 11:12:55,11,Saturday,Small,Urban,12,3
+469,2025-04-08 17:08:56,17,Tuesday,Small,Shopping Center,56,3
+470,2025-02-17 03:08:55,3,Monday,Large,Shopping Center,63,3
+471,2025-03-17 10:01:08,10,Monday,Large,Rural,32,3
+472,2025-02-14 16:16:30,16,Friday,Large,Suburban,32,3
+473,2025-02-09 21:49:13,21,Sunday,Medium,Suburban,75,3
+474,2025-02-15 23:40:13,23,Saturday,Large,Industrial,77,3
+475,2025-02-13 14:10:18,14,Thursday,Medium,Suburban,93,3
+476,2025-03-25 21:52:23,21,Tuesday,Large,Industrial,76,3
+477,2025-02-18 07:53:19,7,Tuesday,Special,Suburban,68,3
+478,2025-02-16 11:13:55,11,Sunday,Medium,Rural,9,3
+479,2025-01-29 11:44:49,11,Wednesday,Large,Rural,37,3
+480,2025-01-23 17:55:40,17,Thursday,Medium,Industrial,12,3
+481,2025-02-26 13:45:47,13,Wednesday,Medium,Suburban,46,3
+482,2025-03-18 14:10:17,14,Tuesday,Medium,Industrial,19,3
+483,2025-02-22 06:58:40,6,Saturday,X-Large,Suburban,96,3
+484,2025-02-14 16:46:00,16,Friday,Small,Rural,55,3
+485,2025-04-10 18:33:25,18,Thursday,Large,Suburban,76,3
+486,2025-03-24 18:07:22,18,Monday,Special,Industrial,7,3
+487,2025-04-07 23:01:42,23,Monday,Large,Urban,56,3
+488,2025-02-09 02:13:52,2,Sunday,Small,Urban,82,3
+489,2025-01-20 20:29:58,20,Monday,Medium,Shopping Center,27,3
+490,2025-03-18 19:25:39,19,Tuesday,Large,Shopping Center,92,3
+491,2025-02-09 03:06:07,3,Sunday,Medium,Shopping Center,29,3
+492,2025-02-08 16:26:42,16,Saturday,Medium,Industrial,64,3
+493,2025-02-07 13:48:53,13,Friday,Small,Shopping Center,14,3
+494,2025-04-01 11:04:47,11,Tuesday,Small,Rural,23,3
+495,2025-03-14 11:14:55,11,Friday,X-Large,Suburban,28,3
+496,2025-02-18 23:29:37,23,Tuesday,Small,Suburban,3,3
+497,2025-04-07 12:57:36,12,Monday,Small,Industrial,55,3
+498,2025-01-20 00:04:44,0,Monday,Small,Industrial,54,3
+499,2025-02-02 05:33:48,5,Sunday,Large,Suburban,81,3
+500,2025-04-03 01:01:28,1,Thursday,Medium,Shopping Center,9,3
+501,2025-02-26 09:57:58,9,Wednesday,X-Large,Rural,93,3
+502,2025-03-20 17:22:19,17,Thursday,Small,Urban,92,3
+503,2025-03-19 19:59:28,19,Wednesday,Small,Shopping Center,46,3
+504,2025-02-12 06:17:57,6,Wednesday,Small,Rural,85,3
+505,2025-02-15 03:31:38,3,Saturday,X-Large,Urban,32,3
+506,2025-02-25 21:13:20,21,Tuesday,Medium,Shopping Center,55,3
+507,2025-03-02 15:03:01,15,Sunday,Medium,Rural,89,3
+508,2025-03-25 12:19:59,12,Tuesday,Special,Industrial,98,3
+509,2025-03-05 10:04:05,10,Wednesday,Small,Shopping Center,9,3
+510,2025-01-19 15:16:10,15,Sunday,X-Large,Urban,69,3
+511,2025-03-26 00:29:14,0,Wednesday,X-Large,Industrial,12,3
+512,2025-02-02 06:20:30,6,Sunday,Special,Shopping Center,48,3
+513,2025-02-25 13:44:34,13,Tuesday,Small,Urban,8,3
+514,2025-02-11 11:54:55,11,Tuesday,Special,Urban,23,3
+515,2025-01-23 06:57:56,6,Thursday,Large,Rural,69,3
+516,2025-03-19 01:17:54,1,Wednesday,Medium,Shopping Center,38,3
+517,2025-04-15 21:27:00,21,Tuesday,Special,Rural,39,3
+518,2025-02-27 19:46:55,19,Thursday,X-Large,Industrial,54,3
+519,2025-02-24 19:52:55,19,Monday,X-Large,Shopping Center,8,3
+520,2025-04-16 05:01:59,5,Wednesday,Medium,Urban,75,3
+521,2025-02-02 20:59:48,20,Sunday,Medium,Suburban,50,3
+522,2025-01-27 13:55:09,13,Monday,X-Large,Industrial,7,3
+523,2025-02-02 08:56:39,8,Sunday,X-Large,Shopping Center,99,3
+524,2025-03-15 12:28:33,12,Saturday,Medium,Rural,9,3
+525,2025-02-09 14:19:24,14,Sunday,X-Large,Suburban,10,3
+526,2025-04-14 22:31:31,22,Monday,Small,Urban,98,3
+527,2025-01-21 23:33:55,23,Tuesday,Special,Suburban,47,3
+528,2025-02-20 10:40:30,10,Thursday,Medium,Industrial,52,3
+529,2025-01-24 14:55:44,14,Friday,X-Large,Shopping Center,4,3
+530,2025-03-12 19:15:39,19,Wednesday,Small,Industrial,78,3
+531,2025-03-05 14:19:31,14,Wednesday,Special,Urban,28,3
+532,2025-04-04 01:05:24,1,Friday,Medium,Industrial,39,3
+533,2025-03-19 03:34:18,3,Wednesday,Small,Industrial,71,3
+534,2025-02-01 19:14:37,19,Saturday,Small,Suburban,29,3
+535,2025-03-30 13:56:23,13,Sunday,Medium,Rural,40,3
+536,2025-02-19 20:09:20,20,Wednesday,Small,Industrial,35,3
+537,2025-02-24 09:52:40,9,Monday,Special,Urban,9,3
+538,2025-03-01 15:32:08,15,Saturday,Small,Urban,96,3
+539,2025-02-20 21:11:01,21,Thursday,Medium,Industrial,91,3
+540,2025-02-04 04:30:00,4,Tuesday,Medium,Urban,72,3
+541,2025-02-13 00:16:28,0,Thursday,Large,Rural,30,3
+542,2025-04-04 19:21:20,19,Friday,Large,Urban,32,3
+543,2025-03-05 02:11:24,2,Wednesday,Small,Rural,29,3
+544,2025-03-06 20:29:42,20,Thursday,Medium,Shopping Center,77,3
+545,2025-04-12 22:25:41,22,Saturday,Small,Urban,24,3
+546,2025-02-10 04:26:56,4,Monday,X-Large,Rural,38,3
+547,2025-04-10 09:28:22,9,Thursday,Large,Urban,47,3
+548,2025-04-15 12:10:26,12,Tuesday,Special,Rural,94,3
+549,2025-02-09 00:00:18,0,Sunday,Small,Industrial,27,3
+550,2025-01-18 15:27:26,15,Saturday,X-Large,Urban,13,3
+551,2025-02-25 16:01:57,16,Tuesday,Large,Shopping Center,36,3
+552,2025-03-04 17:46:26,17,Tuesday,Large,Suburban,49,3
+553,2025-01-22 01:54:18,1,Wednesday,Special,Rural,63,3
+554,2025-02-26 22:31:31,22,Wednesday,X-Large,Rural,89,3
+555,2025-02-11 11:35:09,11,Tuesday,Large,Suburban,65,3
+556,2025-02-15 17:48:17,17,Saturday,Small,Suburban,52,3
+557,2025-01-18 06:38:08,6,Saturday,Small,Suburban,100,3
+558,2025-02-23 19:17:06,19,Sunday,Medium,Rural,41,3
+559,2025-03-05 16:39:26,16,Wednesday,Large,Industrial,41,3
+560,2025-04-14 14:28:20,14,Monday,X-Large,Industrial,77,3
+561,2025-03-18 08:53:43,8,Tuesday,Special,Industrial,54,3
+562,2025-02-11 06:44:07,6,Tuesday,Medium,Urban,57,3
+563,2025-01-24 14:56:49,14,Friday,Special,Industrial,65,3
+564,2025-03-20 17:27:00,17,Thursday,Large,Urban,45,3
+565,2025-04-13 03:37:06,3,Sunday,Special,Suburban,66,3
+566,2025-02-03 01:26:50,1,Monday,X-Large,Urban,51,3
+567,2025-03-09 17:36:39,17,Sunday,X-Large,Shopping Center,100,3
+568,2025-02-13 16:33:46,16,Thursday,Medium,Shopping Center,12,3
+569,2025-01-26 06:50:55,6,Sunday,Small,Industrial,18,3
+570,2025-02-27 03:15:07,3,Thursday,Medium,Rural,23,3
+571,2025-04-14 01:38:36,1,Monday,Medium,Industrial,50,3
+572,2025-03-15 12:03:59,12,Saturday,Medium,Urban,59,3
+573,2025-02-06 04:05:16,4,Thursday,Medium,Shopping Center,95,3
+574,2025-02-21 19:18:35,19,Friday,Medium,Shopping Center,7,3
+575,2025-04-15 15:15:23,15,Tuesday,Medium,Rural,93,3
+576,2025-01-23 23:59:54,23,Thursday,Medium,Suburban,51,3
+577,2025-01-17 18:30:57,18,Friday,Medium,Urban,3,3
+578,2025-03-11 10:47:29,10,Tuesday,Small,Industrial,98,3
+579,2025-03-09 22:07:32,22,Sunday,Large,Suburban,53,3
+580,2025-02-23 03:59:06,3,Sunday,Medium,Rural,72,3
+581,2025-02-27 07:48:06,7,Thursday,Large,Rural,42,3
+582,2025-03-06 11:38:19,11,Thursday,Medium,Rural,42,3
+583,2025-04-16 16:21:20,16,Wednesday,Small,Rural,68,3
+584,2025-01-18 22:21:09,22,Saturday,Large,Shopping Center,5,3
+585,2025-02-01 20:34:59,20,Saturday,Medium,Shopping Center,1,3
+586,2025-04-02 01:41:19,1,Wednesday,Small,Suburban,83,3
+587,2025-03-24 15:16:59,15,Monday,Large,Shopping Center,69,3
+588,2025-01-26 04:05:22,4,Sunday,Small,Industrial,80,3
+589,2025-03-10 20:18:31,20,Monday,Special,Shopping Center,62,3
+590,2025-02-21 23:48:11,23,Friday,X-Large,Rural,36,3
+591,2025-02-27 23:10:00,23,Thursday,X-Large,Suburban,20,3
+592,2025-01-19 01:25:28,1,Sunday,Special,Industrial,68,3
+593,2025-01-21 18:32:43,18,Tuesday,X-Large,Urban,24,3
+594,2025-03-16 10:43:34,10,Sunday,Medium,Industrial,60,3
+595,2025-02-17 06:19:37,6,Monday,Medium,Rural,40,3
+596,2025-03-24 00:04:19,0,Monday,Medium,Shopping Center,94,3
+597,2025-04-13 00:15:44,0,Sunday,Special,Industrial,97,3
+598,2025-03-04 14:05:18,14,Tuesday,Special,Rural,62,3
+599,2025-02-02 04:23:31,4,Sunday,Small,Rural,98,3
+600,2025-01-30 21:07:52,21,Thursday,Large,Industrial,82,3
+601,2025-02-21 16:55:56,16,Friday,X-Large,Rural,49,3
+602,2025-03-20 06:14:18,6,Thursday,Medium,Industrial,21,3
+603,2025-04-08 22:41:59,22,Tuesday,Small,Suburban,92,3
+604,2025-03-06 11:26:42,11,Thursday,Medium,Suburban,15,3
+605,2025-01-24 02:25:50,2,Friday,Small,Urban,63,3
+606,2025-02-13 23:11:01,23,Thursday,Large,Urban,43,3
+607,2025-02-12 10:18:15,10,Wednesday,Medium,Urban,9,3
+608,2025-04-07 02:26:17,2,Monday,Medium,Urban,44,3
+609,2025-02-25 09:09:03,9,Tuesday,Large,Suburban,45,3
+610,2025-04-12 08:47:59,8,Saturday,Small,Rural,93,3
+611,2025-03-15 21:54:27,21,Saturday,Small,Industrial,76,3
+612,2025-04-01 21:16:13,21,Tuesday,Special,Shopping Center,40,3
+613,2025-04-17 06:25:53,6,Thursday,Medium,Shopping Center,55,3
+614,2025-01-29 00:49:18,0,Wednesday,Medium,Urban,93,3
+615,2025-02-24 16:33:41,16,Monday,Large,Shopping Center,30,3
+616,2025-03-12 12:00:44,12,Wednesday,Small,Urban,84,3
+617,2025-04-17 01:03:27,1,Thursday,Medium,Urban,83,3
+618,2025-03-14 07:33:01,7,Friday,Large,Rural,29,3
+619,2025-01-22 12:06:42,12,Wednesday,Special,Rural,75,3
+620,2025-02-05 09:24:57,9,Wednesday,Special,Urban,8,3
+621,2025-03-17 20:28:57,20,Monday,Medium,Industrial,61,3
+622,2025-04-06 03:36:09,3,Sunday,Special,Rural,47,3
+623,2025-03-19 15:52:20,15,Wednesday,Medium,Industrial,15,3
+624,2025-02-01 16:22:46,16,Saturday,Large,Shopping Center,98,3
+625,2025-04-08 09:54:22,9,Tuesday,Medium,Shopping Center,89,3
+626,2025-04-04 21:02:03,21,Friday,Medium,Industrial,48,3
+627,2025-03-29 10:37:51,10,Saturday,Medium,Urban,21,3
+628,2025-01-20 23:14:36,23,Monday,Small,Shopping Center,78,3
+629,2025-02-06 00:22:23,0,Thursday,Medium,Industrial,44,3
+630,2025-04-14 05:33:33,5,Monday,Small,Suburban,78,3
+631,2025-01-17 20:37:17,20,Friday,Medium,Suburban,48,3
+632,2025-01-31 19:42:59,19,Friday,Medium,Suburban,31,3
+633,2025-03-10 10:48:00,10,Monday,Medium,Rural,18,3
+634,2025-03-15 03:21:28,3,Saturday,Medium,Urban,1,3
+635,2025-03-09 04:54:02,4,Sunday,Medium,Shopping Center,43,3
+636,2025-02-23 14:19:56,14,Sunday,Large,Rural,85,3
+637,2025-01-25 14:00:57,14,Saturday,Large,Industrial,100,3
+638,2025-04-08 01:46:55,1,Tuesday,Medium,Suburban,49,3
+639,2025-04-14 00:21:01,0,Monday,Large,Rural,54,3
+640,2025-02-02 06:21:34,6,Sunday,Large,Suburban,77,3
+641,2025-01-18 08:03:14,8,Saturday,Special,Shopping Center,72,3
+642,2025-03-24 15:46:36,15,Monday,Large,Rural,52,3
+643,2025-03-18 07:32:09,7,Tuesday,Small,Suburban,86,3
+644,2025-01-28 13:46:26,13,Tuesday,X-Large,Industrial,52,3
+645,2025-04-03 11:07:22,11,Thursday,Medium,Rural,32,3
+646,2025-03-09 15:52:19,15,Sunday,Special,Urban,29,3
+647,2025-03-03 10:05:11,10,Monday,Large,Shopping Center,18,3
+648,2025-03-01 18:54:26,18,Saturday,Small,Suburban,5,3
+649,2025-02-16 07:43:56,7,Sunday,Medium,Shopping Center,22,3
+650,2025-03-18 12:04:31,12,Tuesday,X-Large,Rural,66,3
+651,2025-01-30 14:13:00,14,Thursday,X-Large,Suburban,76,3
+652,2025-04-08 10:14:35,10,Tuesday,X-Large,Shopping Center,89,3
+653,2025-02-17 21:00:26,21,Monday,Medium,Industrial,76,3
+654,2025-03-19 22:11:05,22,Wednesday,Medium,Urban,14,3
+655,2025-01-30 10:33:25,10,Thursday,Large,Suburban,15,3
+656,2025-02-08 16:23:27,16,Saturday,Medium,Industrial,59,3
+657,2025-04-16 00:17:04,0,Wednesday,X-Large,Suburban,61,3
+658,2025-01-29 15:25:01,15,Wednesday,Medium,Shopping Center,96,3
+659,2025-03-03 18:00:42,18,Monday,X-Large,Suburban,80,3
+660,2025-02-13 15:15:37,15,Thursday,Small,Urban,19,3
+661,2025-03-03 04:58:47,4,Monday,Medium,Shopping Center,88,3
+662,2025-04-07 10:23:36,10,Monday,Small,Shopping Center,5,3
+663,2025-01-27 23:47:31,23,Monday,Small,Industrial,46,3
+664,2025-03-13 00:38:07,0,Thursday,Large,Suburban,80,3
+665,2025-02-04 14:57:53,14,Tuesday,Special,Shopping Center,22,3
+666,2025-02-22 15:02:04,15,Saturday,Large,Industrial,11,3
+667,2025-03-30 15:12:04,15,Sunday,Large,Rural,43,3
+668,2025-04-10 02:42:38,2,Thursday,Small,Shopping Center,34,3
+669,2025-04-11 19:46:46,19,Friday,Small,Rural,55,3
+670,2025-01-29 05:47:26,5,Wednesday,Small,Industrial,5,3
+671,2025-02-17 12:43:04,12,Monday,Large,Suburban,5,3
+672,2025-02-03 22:46:27,22,Monday,Special,Suburban,41,3
+673,2025-01-21 12:24:49,12,Tuesday,Medium,Suburban,32,3
+674,2025-02-18 20:04:17,20,Tuesday,Medium,Urban,92,3
+675,2025-01-25 18:13:27,18,Saturday,Medium,Shopping Center,60,3
+676,2025-03-27 07:28:08,7,Thursday,Medium,Rural,93,3
+677,2025-02-09 21:36:43,21,Sunday,Small,Shopping Center,10,3
+678,2025-03-23 16:28:30,16,Sunday,X-Large,Rural,77,3
+679,2025-02-09 13:02:05,13,Sunday,Medium,Industrial,14,3
+680,2025-02-10 13:49:22,13,Monday,Large,Shopping Center,3,3
+681,2025-04-03 14:10:41,14,Thursday,Small,Industrial,91,3
+682,2025-04-16 18:00:59,18,Wednesday,X-Large,Suburban,16,3
+683,2025-03-19 07:15:17,7,Wednesday,Medium,Suburban,95,3
+684,2025-03-09 19:46:37,19,Sunday,Large,Industrial,23,3
+685,2025-03-11 20:42:11,20,Tuesday,Small,Industrial,29,3
+686,2025-02-04 12:54:11,12,Tuesday,Medium,Shopping Center,93,3
+687,2025-03-15 10:59:27,10,Saturday,Medium,Suburban,60,3
+688,2025-02-21 21:42:45,21,Friday,Medium,Urban,14,3
+689,2025-04-01 00:15:46,0,Tuesday,Medium,Suburban,66,3
+690,2025-04-07 07:19:18,7,Monday,X-Large,Shopping Center,41,3
+691,2025-02-10 17:05:43,17,Monday,Large,Urban,54,3
+692,2025-03-28 04:21:07,4,Friday,Large,Urban,20,3
+693,2025-02-12 04:25:12,4,Wednesday,Small,Shopping Center,70,3
+694,2025-02-17 01:34:47,1,Monday,X-Large,Urban,67,3
+695,2025-03-08 23:22:19,23,Saturday,Small,Industrial,53,3
+696,2025-02-08 12:48:26,12,Saturday,Special,Suburban,75,3
+697,2025-02-07 14:53:23,14,Friday,Small,Rural,18,3
+698,2025-02-04 21:55:13,21,Tuesday,X-Large,Rural,67,3
+699,2025-03-19 05:15:32,5,Wednesday,Medium,Suburban,30,3
+700,2025-03-26 03:42:10,3,Wednesday,Large,Suburban,72,3
+701,2025-04-16 06:57:34,6,Wednesday,Small,Rural,55,3
+702,2025-01-18 08:15:35,8,Saturday,X-Large,Suburban,62,3
+703,2025-02-03 02:35:18,2,Monday,Large,Suburban,10,3
+704,2025-02-27 07:18:12,7,Thursday,Small,Rural,43,3
+705,2025-03-21 08:58:22,8,Friday,X-Large,Industrial,6,3
+706,2025-01-19 19:13:59,19,Sunday,Special,Urban,95,3
+707,2025-04-06 00:44:44,0,Sunday,Small,Urban,59,3
+708,2025-02-22 11:18:01,11,Saturday,Medium,Urban,58,3
+709,2025-01-28 13:54:17,13,Tuesday,Small,Rural,24,3
+710,2025-03-31 01:21:38,1,Monday,Medium,Industrial,89,3
+711,2025-02-12 10:10:51,10,Wednesday,Large,Suburban,5,3
+712,2025-02-11 17:25:33,17,Tuesday,Large,Rural,73,3
+713,2025-04-06 10:00:52,10,Sunday,Special,Industrial,37,3
+714,2025-03-12 02:08:39,2,Wednesday,X-Large,Suburban,6,3
+715,2025-04-13 10:42:15,10,Sunday,Medium,Suburban,71,3
+716,2025-02-14 19:07:54,19,Friday,Special,Urban,41,3
+717,2025-04-10 19:53:21,19,Thursday,Small,Industrial,47,3
+718,2025-02-23 02:54:28,2,Sunday,Small,Industrial,75,3
+719,2025-04-09 17:54:00,17,Wednesday,Small,Rural,38,3
+720,2025-03-03 09:47:18,9,Monday,Large,Suburban,97,3
+721,2025-01-26 20:21:56,20,Sunday,Small,Industrial,1,3
+722,2025-02-19 11:36:12,11,Wednesday,Special,Industrial,31,3
+723,2025-02-24 22:13:20,22,Monday,X-Large,Shopping Center,83,3
+724,2025-01-18 08:32:01,8,Saturday,Medium,Urban,32,3
+725,2025-02-02 20:39:31,20,Sunday,Medium,Rural,48,3
+726,2025-02-11 13:42:50,13,Tuesday,Special,Suburban,83,3
+727,2025-03-06 03:16:05,3,Thursday,Large,Rural,39,3
+728,2025-04-09 09:45:55,9,Wednesday,Large,Rural,20,3
+729,2025-03-24 04:09:00,4,Monday,Large,Suburban,14,3
+730,2025-04-07 12:58:31,12,Monday,Special,Suburban,62,3
+731,2025-03-06 19:38:26,19,Thursday,Medium,Urban,45,3
+732,2025-03-20 12:29:28,12,Thursday,Large,Industrial,40,3
+733,2025-02-05 08:29:05,8,Wednesday,Medium,Urban,42,3
+734,2025-03-17 03:31:12,3,Monday,X-Large,Shopping Center,24,3
+735,2025-02-06 19:49:12,19,Thursday,Large,Industrial,65,3
+736,2025-03-15 09:40:50,9,Saturday,Medium,Industrial,15,3
+737,2025-02-17 00:36:02,0,Monday,Medium,Rural,59,3
+738,2025-01-30 13:24:09,13,Thursday,Special,Rural,63,3
+739,2025-04-16 11:50:44,11,Wednesday,Special,Shopping Center,1,3
+740,2025-02-28 03:05:49,3,Friday,Medium,Urban,73,3
+741,2025-03-12 19:11:10,19,Wednesday,Special,Industrial,75,3
+742,2025-02-12 08:20:57,8,Wednesday,Large,Rural,68,3
+743,2025-01-31 15:34:46,15,Friday,Large,Shopping Center,35,3
+744,2025-03-20 17:31:40,17,Thursday,Special,Urban,3,3
+745,2025-03-31 19:59:22,19,Monday,Large,Suburban,17,3
+746,2025-04-09 10:14:42,10,Wednesday,Small,Shopping Center,35,3
+747,2025-01-30 19:17:20,19,Thursday,Small,Shopping Center,16,3
+748,2025-04-06 15:57:35,15,Sunday,Medium,Suburban,14,3
+749,2025-04-13 20:34:44,20,Sunday,Small,Shopping Center,61,3
+750,2025-04-11 08:07:40,8,Friday,Large,Urban,34,3
+751,2025-03-25 03:30:13,3,Tuesday,Small,Suburban,47,3
+752,2025-04-16 19:58:15,19,Wednesday,Large,Industrial,24,3
+753,2025-02-25 14:50:48,14,Tuesday,Large,Suburban,42,3
+754,2025-04-13 05:21:15,5,Sunday,Medium,Rural,84,3
+755,2025-04-02 22:10:08,22,Wednesday,Large,Suburban,63,3
+756,2025-04-14 17:37:45,17,Monday,Special,Shopping Center,56,3
+757,2025-03-14 11:46:36,11,Friday,Medium,Industrial,2,3
+758,2025-04-04 13:18:13,13,Friday,Medium,Rural,9,3
+759,2025-03-11 06:29:28,6,Tuesday,Small,Industrial,97,3
+760,2025-04-04 23:07:28,23,Friday,Small,Urban,64,3
+761,2025-02-26 10:36:51,10,Wednesday,Special,Shopping Center,23,3
+762,2025-02-20 21:31:22,21,Thursday,Large,Shopping Center,90,3
+763,2025-02-23 12:00:40,12,Sunday,Medium,Urban,97,3
+764,2025-03-13 18:41:37,18,Thursday,X-Large,Shopping Center,75,3
+765,2025-04-01 00:36:59,0,Tuesday,Special,Shopping Center,4,3
+766,2025-03-27 19:52:15,19,Thursday,Large,Suburban,71,3
+767,2025-01-19 16:35:07,16,Sunday,Small,Urban,81,3
+768,2025-02-17 10:43:35,10,Monday,Small,Urban,30,3
+769,2025-03-19 10:44:55,10,Wednesday,Medium,Urban,30,3
+770,2025-02-08 04:11:44,4,Saturday,X-Large,Industrial,3,3
+771,2025-01-31 06:41:42,6,Friday,Medium,Industrial,90,3
+772,2025-02-11 19:13:36,19,Tuesday,Small,Suburban,91,3
+773,2025-04-16 01:54:56,1,Wednesday,Medium,Rural,8,3
+774,2025-04-12 06:04:45,6,Saturday,Small,Urban,66,3
+775,2025-02-26 19:25:38,19,Wednesday,Medium,Urban,28,3
+776,2025-01-26 02:24:47,2,Sunday,Medium,Shopping Center,21,3
+777,2025-03-20 18:55:26,18,Thursday,Medium,Suburban,65,3
+778,2025-01-20 10:18:05,10,Monday,X-Large,Shopping Center,82,3
+779,2025-03-05 05:59:43,5,Wednesday,X-Large,Rural,15,3
+780,2025-02-27 21:57:50,21,Thursday,Large,Shopping Center,32,3
+781,2025-02-07 15:48:47,15,Friday,Medium,Shopping Center,36,3
+782,2025-03-28 03:27:22,3,Friday,Small,Shopping Center,60,3
+783,2025-02-18 08:02:02,8,Tuesday,X-Large,Shopping Center,53,3
+784,2025-04-04 23:17:38,23,Friday,X-Large,Shopping Center,49,3
+785,2025-03-23 06:04:51,6,Sunday,Small,Urban,11,3
+786,2025-01-22 03:44:33,3,Wednesday,Large,Industrial,38,3
+787,2025-01-30 02:38:55,2,Thursday,Large,Industrial,28,3
+788,2025-03-07 23:11:06,23,Friday,Medium,Rural,78,3
+789,2025-02-04 09:59:58,9,Tuesday,Medium,Urban,37,3
+790,2025-04-07 08:18:14,8,Monday,Medium,Shopping Center,18,3
+791,2025-03-01 17:31:59,17,Saturday,Medium,Urban,17,3
+792,2025-02-01 02:06:36,2,Saturday,Large,Shopping Center,34,3
+793,2025-02-19 04:35:58,4,Wednesday,Large,Urban,6,3
+794,2025-02-09 06:52:40,6,Sunday,X-Large,Suburban,76,3
+795,2025-02-02 02:44:50,2,Sunday,X-Large,Shopping Center,4,3
+796,2025-03-07 05:10:12,5,Friday,Medium,Rural,31,3
+797,2025-02-11 02:39:13,2,Tuesday,Medium,Urban,89,3
+798,2025-03-19 10:46:54,10,Wednesday,Medium,Urban,75,3
+799,2025-02-24 08:11:44,8,Monday,X-Large,Shopping Center,7,3
+800,2025-01-22 05:49:37,5,Wednesday,Small,Urban,15,3
+801,2025-04-07 15:33:44,15,Monday,Large,Urban,3,3
+802,2025-03-15 15:44:47,15,Saturday,Special,Industrial,80,3
+803,2025-04-13 17:41:16,17,Sunday,Medium,Shopping Center,81,3
+804,2025-02-03 13:28:20,13,Monday,Medium,Shopping Center,4,3
+805,2025-02-18 11:04:26,11,Tuesday,Special,Shopping Center,75,3
+806,2025-01-22 17:39:03,17,Wednesday,Large,Suburban,93,3
+807,2025-02-02 19:43:30,19,Sunday,Medium,Rural,20,3
+808,2025-03-31 23:31:51,23,Monday,X-Large,Urban,49,3
+809,2025-02-14 12:45:07,12,Friday,Medium,Industrial,60,3
+810,2025-02-10 19:49:51,19,Monday,Small,Shopping Center,5,3
+811,2025-03-12 19:40:41,19,Wednesday,Medium,Urban,46,3
+812,2025-01-28 00:45:30,0,Tuesday,Small,Urban,6,3
+813,2025-02-13 16:36:58,16,Thursday,Special,Industrial,60,3
+814,2025-02-09 10:42:45,10,Sunday,X-Large,Rural,24,3
+815,2025-03-16 15:59:42,15,Sunday,Small,Suburban,32,3
+816,2025-03-07 05:45:26,5,Friday,Medium,Urban,24,3
+817,2025-04-16 00:28:22,0,Wednesday,Small,Suburban,9,3
+818,2025-03-23 04:29:11,4,Sunday,Special,Suburban,62,3
+819,2025-02-08 08:32:52,8,Saturday,Large,Industrial,28,3
+820,2025-02-09 15:42:24,15,Sunday,Small,Urban,92,3
+821,2025-03-27 15:20:05,15,Thursday,X-Large,Shopping Center,19,3
+822,2025-03-06 13:09:35,13,Thursday,Medium,Rural,78,3
+823,2025-03-12 14:02:11,14,Wednesday,Medium,Industrial,77,3
+824,2025-01-30 05:42:06,5,Thursday,Medium,Industrial,70,3
+825,2025-02-09 09:07:44,9,Sunday,Small,Industrial,5,3
+826,2025-02-24 06:18:49,6,Monday,Special,Suburban,100,3
+827,2025-02-05 00:43:08,0,Wednesday,Small,Suburban,97,3
+828,2025-03-31 10:16:33,10,Monday,X-Large,Urban,41,3
+829,2025-04-17 01:23:20,1,Thursday,Special,Rural,14,3
+830,2025-03-19 21:59:33,21,Wednesday,Large,Urban,13,3
+831,2025-04-17 11:39:43,11,Thursday,X-Large,Shopping Center,80,3
+832,2025-03-25 10:55:05,10,Tuesday,X-Large,Industrial,27,3
+833,2025-02-10 17:05:50,17,Monday,Special,Rural,45,3
+834,2025-03-17 20:10:10,20,Monday,Medium,Suburban,73,3
+835,2025-01-18 15:10:43,15,Saturday,Small,Rural,63,3
+836,2025-03-30 01:41:07,1,Sunday,Small,Shopping Center,41,3
+837,2025-02-07 23:32:19,23,Friday,Medium,Urban,21,3
+838,2025-04-17 04:47:06,4,Thursday,Special,Shopping Center,75,3
+839,2025-03-27 20:24:52,20,Thursday,Small,Shopping Center,61,3
+840,2025-03-29 14:01:24,14,Saturday,Large,Industrial,91,3
+841,2025-03-26 08:32:10,8,Wednesday,Small,Suburban,96,3
+842,2025-01-24 15:22:41,15,Friday,Special,Rural,14,3
+843,2025-01-17 20:46:58,20,Friday,Medium,Shopping Center,82,3
+844,2025-03-31 22:53:19,22,Monday,Small,Shopping Center,3,3
+845,2025-04-15 02:36:38,2,Tuesday,Medium,Suburban,24,3
+846,2025-04-08 05:04:07,5,Tuesday,Special,Industrial,3,3
+847,2025-02-03 03:18:27,3,Monday,Large,Suburban,42,3
+848,2025-03-28 09:32:12,9,Friday,Medium,Industrial,29,3
+849,2025-03-25 19:32:59,19,Tuesday,Small,Shopping Center,62,3
+850,2025-03-23 20:07:44,20,Sunday,X-Large,Urban,52,3
+851,2025-01-26 12:02:26,12,Sunday,Small,Urban,57,3
+852,2025-03-12 13:20:33,13,Wednesday,Medium,Suburban,54,3
+853,2025-01-22 07:32:06,7,Wednesday,X-Large,Shopping Center,8,3
+854,2025-01-21 16:56:14,16,Tuesday,Special,Rural,28,3
+855,2025-04-11 19:10:48,19,Friday,Medium,Shopping Center,32,3
+856,2025-03-31 11:55:51,11,Monday,Medium,Shopping Center,93,3
+857,2025-02-16 01:10:14,1,Sunday,X-Large,Suburban,67,3
+858,2025-03-06 09:23:41,9,Thursday,Medium,Suburban,36,3
+859,2025-03-11 00:48:54,0,Tuesday,Large,Rural,76,3
+860,2025-01-24 22:02:05,22,Friday,X-Large,Shopping Center,43,3
+861,2025-03-16 18:59:23,18,Sunday,Large,Urban,41,3
+862,2025-02-24 04:43:00,4,Monday,Special,Shopping Center,51,3
+863,2025-03-07 12:53:55,12,Friday,Small,Suburban,56,3
+864,2025-03-17 15:19:52,15,Monday,Medium,Suburban,79,3
+865,2025-01-29 20:22:06,20,Wednesday,Large,Urban,16,3
+866,2025-04-04 01:25:57,1,Friday,Large,Shopping Center,88,3
+867,2025-04-03 20:21:03,20,Thursday,Large,Rural,47,3
+868,2025-03-26 04:35:06,4,Wednesday,Small,Industrial,10,3
+869,2025-03-25 09:16:28,9,Tuesday,Medium,Rural,23,3
+870,2025-02-28 00:10:15,0,Friday,Medium,Shopping Center,20,3
+871,2025-03-25 02:28:33,2,Tuesday,Small,Suburban,73,3
+872,2025-03-28 15:50:30,15,Friday,Large,Shopping Center,87,3
+873,2025-02-26 10:58:58,10,Wednesday,Large,Rural,1,3
+874,2025-01-19 13:52:55,13,Sunday,Large,Rural,68,3
+875,2025-01-26 18:32:53,18,Sunday,Medium,Suburban,6,3
+876,2025-04-17 05:50:54,5,Thursday,Medium,Shopping Center,44,3
+877,2025-03-14 05:57:26,5,Friday,Medium,Suburban,85,3
+878,2025-04-07 02:34:25,2,Monday,Small,Industrial,82,3
+879,2025-01-25 19:34:15,19,Saturday,Medium,Urban,65,3
+880,2025-01-28 14:24:34,14,Tuesday,Small,Rural,99,3
+881,2025-04-12 01:45:44,1,Saturday,Medium,Rural,65,3
+882,2025-03-17 07:36:25,7,Monday,Large,Industrial,31,3
+883,2025-01-20 20:57:11,20,Monday,X-Large,Urban,48,3
+884,2025-02-22 14:33:35,14,Saturday,Medium,Urban,24,3
+885,2025-03-16 00:44:41,0,Sunday,X-Large,Rural,82,3
+886,2025-02-20 04:50:57,4,Thursday,Medium,Shopping Center,74,3
+887,2025-04-01 19:42:46,19,Tuesday,Large,Urban,42,3
+888,2025-04-01 22:14:13,22,Tuesday,Medium,Urban,27,3
+889,2025-03-17 02:44:51,2,Monday,Special,Shopping Center,14,3
+890,2025-01-23 21:53:44,21,Thursday,Medium,Industrial,3,3
+891,2025-02-08 14:38:03,14,Saturday,Large,Rural,99,3
+892,2025-02-19 20:48:53,20,Wednesday,Large,Industrial,29,3
+893,2025-04-01 16:43:45,16,Tuesday,Medium,Urban,27,3
+894,2025-03-26 05:00:08,5,Wednesday,Small,Shopping Center,28,3
+895,2025-04-03 12:44:26,12,Thursday,Small,Suburban,99,3
+896,2025-04-09 12:38:59,12,Wednesday,Small,Shopping Center,79,3
+897,2025-04-02 08:23:45,8,Wednesday,Large,Suburban,23,3
+898,2025-02-01 02:59:18,2,Saturday,X-Large,Suburban,100,3
+899,2025-01-31 03:04:29,3,Friday,Small,Urban,78,3
+900,2025-02-11 01:30:50,1,Tuesday,Small,Shopping Center,71,3
+901,2025-01-26 04:10:00,4,Sunday,Large,Rural,57,3
+902,2025-03-23 15:13:21,15,Sunday,Small,Rural,14,3
+903,2025-03-15 01:14:51,1,Saturday,Medium,Industrial,8,3
+904,2025-04-12 14:05:59,14,Saturday,Large,Industrial,13,3
+905,2025-03-10 00:29:37,0,Monday,X-Large,Suburban,83,3
+906,2025-02-24 10:49:25,10,Monday,Large,Industrial,3,3
+907,2025-03-25 05:00:07,5,Tuesday,Large,Rural,98,3
+908,2025-02-18 10:02:10,10,Tuesday,Medium,Suburban,91,3
+909,2025-02-10 01:14:49,1,Monday,X-Large,Suburban,55,3
+910,2025-01-23 05:21:36,5,Thursday,Medium,Shopping Center,70,3
+911,2025-03-20 06:13:32,6,Thursday,Large,Urban,44,3
+912,2025-01-31 04:27:44,4,Friday,Special,Industrial,73,3
+913,2025-04-09 00:08:34,0,Wednesday,Medium,Industrial,69,3
+914,2025-01-23 04:57:35,4,Thursday,Large,Industrial,12,3
+915,2025-02-13 15:53:35,15,Thursday,Medium,Shopping Center,43,3
+916,2025-04-05 21:27:09,21,Saturday,Large,Rural,7,3
+917,2025-02-16 09:46:10,9,Sunday,Medium,Urban,25,3
+918,2025-03-17 21:05:54,21,Monday,Large,Shopping Center,41,3
+919,2025-04-07 22:06:41,22,Monday,Large,Rural,65,3
+920,2025-04-03 02:16:09,2,Thursday,Large,Rural,69,3
+921,2025-01-21 02:33:49,2,Tuesday,X-Large,Industrial,76,3
+922,2025-03-05 23:28:14,23,Wednesday,Medium,Urban,51,3
+923,2025-02-20 09:14:52,9,Thursday,Medium,Rural,19,3
+924,2025-04-01 23:05:44,23,Tuesday,Medium,Shopping Center,69,3
+925,2025-04-13 00:37:49,0,Sunday,Small,Suburban,9,3
+926,2025-02-25 05:48:27,5,Tuesday,Special,Suburban,47,3
+927,2025-02-25 12:36:39,12,Tuesday,X-Large,Industrial,62,3
+928,2025-01-26 09:24:56,9,Sunday,Medium,Industrial,14,3
+929,2025-04-02 11:03:29,11,Wednesday,Special,Shopping Center,75,3
+930,2025-04-10 04:52:37,4,Thursday,Small,Shopping Center,7,3
+931,2025-02-23 08:28:08,8,Sunday,Large,Suburban,77,3
+932,2025-04-15 08:17:12,8,Tuesday,Medium,Suburban,57,3
+933,2025-03-05 12:12:40,12,Wednesday,Large,Rural,58,3
+934,2025-03-18 07:15:32,7,Tuesday,Small,Industrial,26,3
+935,2025-02-07 13:12:14,13,Friday,Medium,Shopping Center,88,3
+936,2025-02-14 13:46:43,13,Friday,Medium,Suburban,69,3
+937,2025-01-19 07:52:24,7,Sunday,Small,Industrial,20,3
+938,2025-01-22 04:13:53,4,Wednesday,Medium,Shopping Center,99,3
+939,2025-04-06 10:45:17,10,Sunday,Large,Shopping Center,58,3
+940,2025-04-16 23:37:47,23,Wednesday,Special,Urban,42,3
+941,2025-02-24 09:12:57,9,Monday,Medium,Industrial,85,3
+942,2025-02-09 01:33:35,1,Sunday,Large,Industrial,87,3
+943,2025-03-05 01:35:05,1,Wednesday,Medium,Rural,57,3
+944,2025-02-17 19:48:13,19,Monday,Medium,Industrial,69,3
+945,2025-02-09 02:13:32,2,Sunday,Medium,Industrial,20,3
+946,2025-03-21 16:51:14,16,Friday,Medium,Urban,80,3
+947,2025-03-17 12:27:40,12,Monday,Small,Urban,98,3
+948,2025-03-17 13:06:19,13,Monday,Special,Shopping Center,48,3
+949,2025-02-14 14:12:18,14,Friday,Medium,Suburban,100,3
+950,2025-02-12 11:26:43,11,Wednesday,Small,Industrial,30,3
+951,2025-04-08 04:18:18,4,Tuesday,X-Large,Urban,54,3
+952,2025-03-04 06:30:21,6,Tuesday,Medium,Industrial,68,3
+953,2025-03-19 17:51:47,17,Wednesday,Small,Suburban,61,3
+954,2025-02-06 14:45:16,14,Thursday,Large,Rural,43,3
+955,2025-02-15 08:59:58,8,Saturday,Medium,Suburban,42,3
+956,2025-02-25 15:13:00,15,Tuesday,Special,Urban,89,3
+957,2025-03-20 01:21:23,1,Thursday,Medium,Urban,17,3
+958,2025-03-09 11:42:16,11,Sunday,Small,Shopping Center,19,3
+959,2025-03-22 12:45:10,12,Saturday,Small,Suburban,97,3
+960,2025-04-08 07:28:46,7,Tuesday,Medium,Rural,84,3
+961,2025-03-21 16:48:59,16,Friday,Small,Urban,17,3
+962,2025-03-05 19:12:40,19,Wednesday,Medium,Urban,28,3
+963,2025-04-05 10:02:19,10,Saturday,Special,Shopping Center,20,3
+964,2025-03-12 16:56:55,16,Wednesday,Large,Industrial,27,3
+965,2025-03-30 23:27:15,23,Sunday,Medium,Suburban,39,3
+966,2025-01-24 18:32:07,18,Friday,Large,Shopping Center,96,3
+967,2025-02-02 19:24:11,19,Sunday,X-Large,Shopping Center,57,3
+968,2025-03-27 20:04:57,20,Thursday,Small,Rural,29,3
+969,2025-01-19 14:21:10,14,Sunday,Medium,Suburban,44,3
+970,2025-02-12 08:55:10,8,Wednesday,X-Large,Urban,60,3
+971,2025-04-07 15:15:20,15,Monday,Medium,Suburban,4,3
+972,2025-03-19 15:57:37,15,Wednesday,Medium,Suburban,25,3
+973,2025-02-24 06:00:56,6,Monday,Small,Urban,37,3
+974,2025-03-14 17:29:41,17,Friday,Small,Shopping Center,68,3
+975,2025-01-22 17:17:11,17,Wednesday,Medium,Industrial,45,3
+976,2025-02-09 13:34:16,13,Sunday,Large,Shopping Center,9,3
+977,2025-04-14 01:51:30,1,Monday,Small,Shopping Center,19,3
+978,2025-03-01 20:09:53,20,Saturday,Large,Suburban,9,3
+979,2025-01-17 17:42:40,17,Friday,Large,Suburban,48,3
+980,2025-04-05 04:45:50,4,Saturday,Medium,Shopping Center,60,3
+981,2025-02-06 03:51:52,3,Thursday,Large,Suburban,51,3
+982,2025-03-11 09:17:49,9,Tuesday,Large,Industrial,59,3
+983,2025-04-04 17:17:23,17,Friday,Large,Rural,43,3
+984,2025-02-24 18:58:37,18,Monday,Medium,Industrial,88,3
+985,2025-03-22 22:39:15,22,Saturday,Small,Urban,9,3
+986,2025-04-10 16:53:27,16,Thursday,X-Large,Urban,61,3
+987,2025-04-14 16:44:35,16,Monday,Small,Rural,78,3
+988,2025-01-28 18:57:53,18,Tuesday,Medium,Urban,52,3
+989,2025-04-16 11:18:35,11,Wednesday,Large,Urban,76,3
+990,2025-02-12 00:25:28,0,Wednesday,Large,Industrial,18,3
+991,2025-03-30 17:21:17,17,Sunday,Small,Rural,37,3
+992,2025-03-14 21:59:11,21,Friday,Medium,Suburban,4,3
+993,2025-02-13 19:49:03,19,Thursday,Special,Urban,69,3
+994,2025-02-20 18:42:50,18,Thursday,Large,Rural,45,3
+995,2025-02-21 12:55:03,12,Friday,Large,Shopping Center,25,3
+996,2025-02-11 21:02:45,21,Tuesday,Medium,Industrial,69,3
+997,2025-02-22 14:18:36,14,Saturday,Medium,Rural,68,3
+998,2025-01-20 18:58:15,18,Monday,Small,Suburban,53,3
+999,2025-02-11 03:28:11,3,Tuesday,Large,Rural,70,3
+1000,2025-01-24 21:15:53,21,Friday,Small,Urban,57,3
